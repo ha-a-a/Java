@@ -1,2 +1,3 @@
 # git
+only modify b.txt
 test for master merge to dev
